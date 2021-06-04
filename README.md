@@ -1,5 +1,15 @@
 # Dany5_portfolio
 Machine Learning and Data Science Portfolio
+# Project 1: California Housing Price Prediction
+  In this project i have created a Machine Learning model which predicts the housing prices of california.This is a project from my PG-AI Data science with Python course.
+  I performed Data Preprocessing which includes Importing all the crucial libraries,Importing the dataset, Missing values imputation, Encoding the categorical data.
+  Performed Data Splitting 80% of the total data as Training Dataset and 20% of the total data as Testing dataset.Performed Data Standardization using StandardScaler
+  Performed Model Training,Model Evaluation and Testing using LinearRegression.
+  
+
+
+
+
 
 # [Project 2: Classifiction Of Breast Cancer Using Machine Learning: Project Overview](https://github.com/Dany511/machinelearning_projects)
   Created a Machine Learning model that predicts the cancer whether it is malignant or benign to help doctors to proceed for further diagnosis.
