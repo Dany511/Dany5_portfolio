@@ -33,3 +33,5 @@ Machine Learning and Data Science Portfolio
   
   The recall is the measure of our model correctly identifying True Positives. Thus, for all the patients who actually have Malignant cancer, recall tells us how many we correctly   identified as having a Malignant cancer
   
+  
+  ![]()
