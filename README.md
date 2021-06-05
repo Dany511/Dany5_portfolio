@@ -14,7 +14,7 @@ Machine Learning and Data Science Portfolio
 • Performed Model Training and Model Testing using LinearRegression,I was able to get this model to achieve a MSE value of 69710.1 which is good because the values of housing       prices are way large than the MSE.
   
 
-![]()
+![](/images/Capture.PNG)
 
 
 
