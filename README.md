@@ -1,4 +1,4 @@
-# Dany5_portfolio
+# Dany_Portfolio
 Machine Learning and Data Science Portfolio
 
 # [Project 1: California Housing Price Prediction: Project Overview](https://github.com/Dany511/P1_Housing_Price_Pred)
