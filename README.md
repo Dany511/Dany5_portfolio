@@ -14,7 +14,7 @@ Machine Learning and Data Science Portfolio
 • Performed Model Training and Model Testing using LinearRegression,I was able to get this model to achieve a MSE value of 69710.1 which is good because the values of housing       prices are way large than the MSE.
   
 
-![](/images/Capture.PNG)
+   ![](/images%202/actual%20vs%20pred%20test.PNG)
 
 
 
@@ -34,4 +34,5 @@ Machine Learning and Data Science Portfolio
   The recall is the measure of our model correctly identifying True Positives. Thus, for all the patients who actually have Malignant cancer, recall tells us how many we correctly   identified as having a Malignant cancer
   
   
-  ![](/images%202/actual%20vs%20pred%20test.PNG)
+  
+   ![](/images/Capture.PNG)
