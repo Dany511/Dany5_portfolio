@@ -125,21 +125,33 @@ Tasks:
 
 
 
-# [Project 2: Classifiction Of Breast Cancer Using Machine Learning: Project Overview](https://github.com/Dany511/machinelearning_projects)
-• Created a Machine Learning model that predicts the cancer whether it is malignant or benign to help doctors to proceed for further diagnosis.
-  
-  
-• Collected data from kaggle website.Performed Data Preprocessing which includes Importing all the crucial libraries,Importing the dataset, Missing values imputation, Encoding     the categorical data.
-  
-  
-• Performed Data Splitting 80% of the total data as Training Dataset and 20% of the total data as Testing dataset.Performed Data Standardization using StandardScaler.
-  
-  
-• Performed Model Training and Model Testing using various Classification algorithms.As here we are dealing with the clinical data the risk of predicting a cancer as benign       when it is actually malignant costs a life.
-  
-  
-  The recall is the measure of our model correctly identifying True Positives. Thus, for all the patients who actually have Malignant cancer, recall tells us how many we correctly   identified as having a Malignant cancer
-  
-  
-  
-   ![](/images/Capture.PNG)
+# Project 2: Facial Recognition Using Deep Learning in Keras Using CNN : Project Overview
+
+### Problem Statement:
+Facial recognition is a biometric alternative that measures unique characteristics of a human
+face. Applications available today include flight check in, tagging friends and family members in
+photos, and “tailored” advertising. You are a computer vision engineer who needs to develop a
+face recognition programme with deep convolutional neural networks.
+Objective: Use a deep convolutional neural network to perform facial recognition using Keras.
+Dataset Details:
+ORL face database composed of 400 images of size 112 x 92. There are 40 people, 10 images
+per person. The images were taken at different times, lighting and facial expressions. The faces
+are in an upright position in frontal view, with a slight left-right rotation.
+Link to the Dataset: https://www.dropbox.com/s/i7uzp5yxk7wruva/ORL_faces.npz?dl=0
+### Prerequisites:
+Keras
+Scikit Learn
+Steps to be followed:
+1. Input the required libraries
+2. Load the dataset after loading the dataset, you have to normalize every image.
+3. Split the dataset
+4. Transform the images to equal sizes to feed in CNN
+5. Build a CNN model that has 3 main layers:
+
+i. Convolutional Layer
+ii. Pooling Layer
+iii. Fully Connected Layer
+
+6. Train the model
+7. Plot the result
+8. Iterate the model until the accuracy is above 90%
