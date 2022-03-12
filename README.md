@@ -125,7 +125,7 @@ Tasks:
 
 
 
-# Project 2: Facial Recognition Using Deep Learning in Keras Using CNN : Project Overview
+# [Project 2: Facial Recognition Using Deep Learning in Keras Using CNN : Project Overview](https://github.com/Dany511/P1_Housing_Price_Pred/blob/main/Advanced_DeepLearning_Project%20(1).ipynb)
 
 ### Problem Statement:
 Facial recognition is a biometric alternative that measures unique characteristics of a human
