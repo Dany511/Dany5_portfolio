@@ -1,7 +1,7 @@
 # Dany_Portfolio
 Machine Learning and Data Science Portfolio
 
-# Project 1: Help Twitter Combat Hate Speech Using NLP And Machine Learning : Project Overview
+# [Project 1: Help Twitter Combat Hate Speech Using NLP And Machine Learning : Project Overview](https://github.com/Dany511/P1_Housing_Price_Pred/blob/main/NLP_Project%20(2).ipynb)
 ### DESCRIPTION:
 Using NLP and ML, make a model to identify hate speech (racist or sexist tweets) in Twitter.
 
